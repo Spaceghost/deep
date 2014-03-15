@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Deep::VERSION
   spec.authors       = ["Johnneylee Jack Rollins"]
   spec.email         = ["Johnneylee.Rollins@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{A collection of ways to access deeply nested things.}
+  spec.description   = %q{A collection of ways to access deeply nested things. You probably shouldn't want to do this anyways.}
+  spec.homepage      = "https://github.com/Spaceghost/deep"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")

@@ -1,6 +1,6 @@
 # Deep
 
-TODO: Write a gem description
+Deep is a gem you probably shouldn't use. It's made for accessing data within complex data structures.
 
 ## Installation
 
@@ -18,11 +18,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+`%w|include prepend extend|` any of the modules within Deep for their respective behaviour.
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/deep/fork )
+1. Fork it ( https://github.com/Spaceghost/deep/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
